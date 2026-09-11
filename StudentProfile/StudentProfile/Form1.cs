@@ -9,7 +9,7 @@ namespace StudentProfile
 
         private void Form1_Load(object sender, EventArgs e)
         {
-            MessageBox.Show("Student: Aira Alaras");
+            MessageBox.Show("Student:");
         }
     }
 }
